@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register with empty email</description>
+   <name>TC_06_Register with empty email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>61611d5c-9460-49ce-a2f9-5c5c0f499be1</testCaseGuid>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>fd24ca72-9dae-4e32-a6a1-9555053adf21</id>
+      <masked>false</masked>
+      <name>rawUrl</name>
+   </variable>
+   <variable>
+      <defaultValue>'ho thi lu'</defaultValue>
+      <description></description>
+      <id>55198fae-d1aa-4162-a47f-cb12f788860c</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'0326586361'</defaultValue>
+      <description></description>
+      <id>36fbb025-200a-4662-b29c-00156d21c009</id>
+      <masked>false</masked>
+      <name>phone</name>
+   </variable>
+</TestCaseEntity>

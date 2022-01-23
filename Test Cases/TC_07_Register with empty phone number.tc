@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register with empty phone number</description>
+   <name>TC_07_Register with empty phone number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88c8ebf6-1c5a-4874-a865-7230cee24fc9</testCaseGuid>
+   <variable>
+      <defaultValue>'ho thi lu'</defaultValue>
+      <description></description>
+      <id>78ddb917-1e9a-4c6c-9c36-5cb26815bf64</id>
+      <masked>false</masked>
+      <name>name</name>
+   </variable>
+   <variable>
+      <defaultValue>'thilu6801@gmail.com'</defaultValue>
+      <description></description>
+      <id>7a85f805-28fc-4951-a4a2-c3be9ff83aae</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+   <variable>
+      <defaultValue>'https://hocmai.vn/loginv2/signup.php'</defaultValue>
+      <description></description>
+      <id>770439a7-a349-4a7e-9a68-46234a918475</id>
+      <masked>false</masked>
+      <name>rawUrl</name>
+   </variable>
+</TestCaseEntity>
